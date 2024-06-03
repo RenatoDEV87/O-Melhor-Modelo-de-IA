@@ -1,8 +1,8 @@
-# Desafio de Escolha de Modelo de Inteligência Artificial
+# Treinando Desafios de Códigos com IAs Generativas (Desafio do Bootcamp da Dio.me)
 
-Treinando Desafios de Códigos com IAs Generativas (Desafio do Bootcamp da Dio.me)
+## Desafio de Escolha de Modelo de Inteligência Artificial
 
-## Descrição
+### Descrição
 Neste desafio, o objetivo é ajudar na escolha do modelo de inteligência artificial mais adequado com base em critérios específicos definidos pelo cliente, utilizando as inovações recentemente anunciadas pela Amazon Web Services (AWS). Os modelos de IA disponíveis são da família Claude 3, desenvolvidos pela Anthropic, que foram anunciados como disponíveis na plataforma Amazon Bedrock. Esses modelos de última geração foram projetados para oferecer um equilíbrio entre precisão, desempenho, velocidade e custo, atendendo às demandas de clientes de todos os tamanhos.
 
 **Atenção:**
